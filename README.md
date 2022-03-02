@@ -1,6 +1,8 @@
 # Lenovo-ThinkPad-t14s-opencore hackintosh
 Successfully running Monterey 12.2
 
+![proof](proof.webp)
+
 | Specs  |  |
 | --- | ---|
 | CPU: | Intel Core i7-10610U |
